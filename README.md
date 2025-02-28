@@ -34,9 +34,10 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*1. "clear" - clears your screen. It's essential for new engineers because it makes you less confused to quickly take a look on what you're doing.
+2. "grep" - searches for regular expression and print out. It's essential for new engineers because it makes your life easier in finding something that has its pattern in a file. *
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*Don't be afraid to try things that interest you. Life is short, and campus life is only 4 years. Having many friends is not as important as having a few good friends who truly understand and support you.*
