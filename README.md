@@ -34,9 +34,16 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*
+1. ls -al (list the permissions and details of files and folders in the current directory)
+As new engineers, we need to know which files or folders we have and the permissions we have on them to work
+
+2. chmod (change the permission of folders and directories)
+Using with the last command(no.1) we can manage who can access files and directories based on user types to make the system secure
+*
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+*After one and a half years in the ISNE program, I would tell to prospective ISNE students that think again and good luck.
+If u are really interested in IT and dedicated enough to brainstorm a lot and withstand the pressure, you will be okay and happy.*
