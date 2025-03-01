@@ -34,9 +34,15 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+1. ls -la (check the permissions and details of all files and folders in current directory)
+As a new engineer, u will have to check the files in the current directories to do the other work needed
+
+2.chmod (change the permission of folders and directories)
+Enginneers have to set up permissions and accesss for different types of users in the organiztion to make the system secure
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+I think one and a half years mean our 4th sem, so at that time , we would have survied the hell sem of ISNE.
+I want to say to the prospective students that think again before u enroll in this major, not meaning the major is not good, it is kinda difficult that some of my friends even didn't make it and leave on the half way.
+So, it will be waste of time if u are not sure and not decicated enough to withstand the pressure.
